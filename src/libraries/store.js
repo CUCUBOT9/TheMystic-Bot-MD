@@ -13,8 +13,8 @@
  * see more https://github.com/Skidy89/baileys?tab=readme-ov-
  *
  * Contribution:
- * Ciphertext error fix and additional improvements by @BrunoSobrino
- * See: https://github.com/BrunoSobrino
+ * Ciphertext error fix and additional improvements by @cucubot
+ * See: https://github.com/cucubot
  */
 const { BufferJSON, proto, isJidBroadcast, WAMessageStubType, updateMessageWithReceipt, updateMessageWithReaction, jidNormalizedUser } = (await import('baileys')).default;
 

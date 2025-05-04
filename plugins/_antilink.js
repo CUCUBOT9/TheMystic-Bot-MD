@@ -1,4 +1,4 @@
-// Cucu bot-Bot-MD@BrunoSobrino - _antilink.js
+// Cucu bot-Bot-MD@cucubot - _antilink.js
 
   
 const linkRegex = /chat.whatsapp.com\/([0-9A-Za-z]{20,24})/i;

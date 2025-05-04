@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/593982550410                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ BrunoSobrino (https://github.com/BrunoSobrino)  */
+/*     ◉ cucubot (https://github.com/cucubot)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
@@ -25,7 +25,7 @@ if (!text) throw `${tradutor.texto1[0]} ${usedPrefix + command} ${tradutor.texto
 try {
 conn.sendPresenceUpdate('composing', m.chat);
 const prompt = tradutor.texto3;
-const chatgpt = await axios.get(`https://skynex.boxmine.xyz/docs/ai/myprompt?text=${text}&prompt=${prompt}&apikey=BrunoSobrino`);
+const chatgpt = await axios.get(`https://skynex.boxmine.xyz/docs/ai/myprompt?text=${text}&prompt=${prompt}&apikey=cucubot`);
 const data = chatgpt.data;
 m.reply(`${data.answer}`.trim());
 } catch (error) {

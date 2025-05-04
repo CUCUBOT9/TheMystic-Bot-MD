@@ -3,7 +3,7 @@ import axios from 'axios';
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'BrunoSobrino';
+const owner = 'cucubot';
 const repo = 'Cucu bot-Bot-MD';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global

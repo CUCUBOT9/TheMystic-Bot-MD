@@ -1,5 +1,5 @@
 /**
-Cucu bot-Bot-MD@BrunoSobrino - _antitrabas.js
+Cucu bot-Bot-MD@cucubot - _antitrabas.js
 By @NeKosmic || https://github.com/NeKosmic/
 **/
 

@@ -6,11 +6,11 @@ El codigo de este archivo esta totalmente hecho por:
 - Aiden_NotLogic (https://github.com/ferhacks)
 
 El codigo de este archivo fue creado para:
-- Cucu bot-Bot-MD (https://github.com/BrunoSobrino/Cucu bot-Bot-MD)
+- Cucu bot-Bot-MD (https://github.com/cucubot/Cucu bot-Bot-MD)
 
 El codigo de este archivo fue parchado por:
 - ReyEndymion (https://github.com/ReyEndymion)
-- BrunoSobrino (https://github.com/BrunoSobrino)
+- cucubot (https://github.com/cucubot)
 
 ⚠ PROHIBIDO EDITAR ⚠ -- ⚠ PROHIBIDO EDITAR ⚠ -- ⚠ PROHIBIDO EDITAR ⚠
 

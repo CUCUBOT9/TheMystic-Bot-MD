@@ -1,5 +1,5 @@
-// Codigo hecho para CUCU BOT - MD por https://github.com/BrunoSobrino
-// By @BrunoSobrino
+// Codigo hecho para CUCU BOT - MD por https://github.com/cucubot
+// By @cucubot
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
 

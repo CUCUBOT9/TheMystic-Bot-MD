@@ -16,7 +16,7 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - BrunoSobrino 👑', true],
+  ['5219992095479', '👑 Mystic - cucubot 👑', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
@@ -91,8 +91,8 @@ global.wm2 = `${dia} ${fecha}\nCUCU BOT`;
 global.gt = 'CUCU BOT';
 global.mysticbot = 'CUCU BOT';
 global.channel = 'https://chat.whatsapp.com/GBPzeIJaaak4T8wgveOwpC';
-global.md = 'https://github.com/BrunoSobrino/Cucu bot-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/Cucu bot-Bot-MD';
+global.md = 'https://github.com/cucubot/Cucu bot-Bot-MD';
+global.mysticbot = 'https://github.com/cucubot/Cucu bot-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';

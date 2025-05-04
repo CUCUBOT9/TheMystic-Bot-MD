@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://github.com/BrunoSobrino/Cucu bot-Bot-MD)
+      (https://github.com/cucubot/Cucu bot-Bot-MD)
 */
 
 

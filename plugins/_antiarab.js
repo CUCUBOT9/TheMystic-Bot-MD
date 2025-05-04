@@ -1,4 +1,4 @@
-// Cucu bot-Bot-MD@BrunoSobrino - _antiarab.js
+// Cucu bot-Bot-MD@cucubot - _antiarab.js
 
 
 const handler = (m) => m;

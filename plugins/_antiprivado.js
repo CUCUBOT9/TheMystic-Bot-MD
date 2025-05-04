@@ -1,4 +1,4 @@
-// Cucu bot-Bot-MD@BrunoSobrino - _antiprivado.js
+// Cucu bot-Bot-MD@cucubot - _antiprivado.js
 
 export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
     const datas = global

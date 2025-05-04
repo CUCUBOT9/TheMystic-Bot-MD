@@ -5,32 +5,32 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/BrunoSobrino/Cucu bot-Bot-MD?style=for-the-badge" />
+  <a href="https://github.com/cucubot/Cucu bot-Bot-MD/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/cucubot/Cucu bot-Bot-MD?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/BrunoSobrino/Cucu bot-Bot-MD?style=for-the-badge" />
+  <a href="https://github.com/cucubot/Cucu bot-Bot-MD/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/cucubot/Cucu bot-Bot-MD?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/BrunoSobrino/Cucu bot-Bot-MD?style=for-the-badge" />
+  <a href="https://github.com/cucubot/Cucu bot-Bot-MD/pulls">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/cucubot/Cucu bot-Bot-MD?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD/commits">
-    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/BrunoSobrino/Cucu bot-Bot-MD?style=for-the-badge" />
+  <a href="https://github.com/cucubot/Cucu bot-Bot-MD/commits">
+    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/cucubot/Cucu bot-Bot-MD?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/BrunoSobrino/Cucu bot-Bot-MD?style=for-the-badge" />
+  <a href="https://github.com/cucubot/Cucu bot-Bot-MD">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/cucubot/Cucu bot-Bot-MD?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD/fork">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/BrunoSobrino/Cucu bot-Bot-MD?style=for-the-badge" />
+  <a href="https://github.com/cucubot/Cucu bot-Bot-MD/fork">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/cucubot/Cucu bot-Bot-MD?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+5219992843881&text=&text=.menu">Demostración</a>
   ·
-  <a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD/issues/new?assignees=&labels=Bug">Reportar un error</a>
+  <a href="https://github.com/cucubot/Cucu bot-Bot-MD/issues/new?assignees=&labels=Bug">Reportar un error</a>
   ·
-  <a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD/issues/new?assignees=&labels=Enhancement">Solicitar una característica</a>
+  <a href="https://github.com/cucubot/Cucu bot-Bot-MD/issues/new?assignees=&labels=Enhancement">Solicitar una característica</a>
 </p>
 
 <!-- <p align="center">
@@ -61,7 +61,7 @@
 > Este proyecto **no está afiliado, respaldado ni asociado de ninguna manera** con la plataforma de `WhatsApp`. la plataforma de `WhatsApp` es una subsidiaria registrada por `Meta Platforms Inc.`. Este bot es un **desarrollo independiente** y **no tiene ninguna relación oficial con la compañía**.
 
 > [!IMPORTANT]\
-> se asegura que este **proyecto no funcione de manera correcta** debido a cuestiones de tiempo personales de [Bruno Sobrino](https://github.com/BrunoSobrino), por lo cual **este proyecto está en desarrollo por parte de los colaboradores** y usuarios que deseen aportar **actualizaciones**.
+> se asegura que este **proyecto no funcione de manera correcta** debido a cuestiones de tiempo personales de [Bruno Sobrino](https://github.com/cucubot), por lo cual **este proyecto está en desarrollo por parte de los colaboradores** y usuarios que deseen aportar **actualizaciones**.
 
 
 # Opciones de despliegue
@@ -132,16 +132,16 @@
 En esta sección encontrarás **botones de despliegue** que te permitirán implementar el proyecto en distintos entornos con un solo clic. Este proceso es **automático** y no requiere configuraciones manuales adicionales. Simplemente selecciona la plataforma deseada y haz clic en el botón correspondiente para **desplegar** tu proyecto de manera rápida y sencilla.
 
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=514876515&ref=master&geo=EuropeWest)
-[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/BrunoSobrino/Cucu bot-Bot-MD)
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://github.com/BrunoSobrino/Cucu bot-Bot-MD)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=Cucu bot-bot-md&repository=https://github.com/BrunoSobrino/Cucu bot-Bot-MD)
-[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/BrunoSobrino/Cucu bot-Bot-MD)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/BrunoSobrino/Cucu bot-Bot-MD)
-[![Deploy to Termux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://brunosobrino.github.io/Cucu bot-Bot-MD/)
-[![Deploy to Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://brunosobrino.github.io/Cucu bot-Bot-MD/)
-[![Deploy to Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://brunosobrino.github.io/Cucu bot-Bot-MD/)
+[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/cucubot/Cucu bot-Bot-MD)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://github.com/cucubot/Cucu bot-Bot-MD)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=Cucu bot-bot-md&repository=https://github.com/cucubot/Cucu bot-Bot-MD)
+[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/cucubot/Cucu bot-Bot-MD)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/cucubot/Cucu bot-Bot-MD)
+[![Deploy to Termux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://cucubot.github.io/Cucu bot-Bot-MD/)
+[![Deploy to Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://cucubot.github.io/Cucu bot-Bot-MD/)
+[![Deploy to Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://cucubot.github.io/Cucu bot-Bot-MD/)
 
-<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/BrunoSobrino/Cucu bot-Bot-MD) -->
+<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/cucubot/Cucu bot-Bot-MD) -->
 
 # Soporte y Comunidad
 
@@ -164,8 +164,8 @@ En este espacio podrás encontrar diversas **comunidades de asistencia** donde p
 
 Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. Su apoyo ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://github.com/BrunoSobrino/Cucu bot-Bot-MD/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BrunoSobrino/Cucu bot-Bot-MD" /> 
+<a href="https://github.com/cucubot/Cucu bot-Bot-MD/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cucubot/Cucu bot-Bot-MD" /> 
 </a>
 
 ## Agradecimientos
@@ -176,6 +176,6 @@ Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. 
 
 ## Desarollador Principal
 
-<a href="https://github.com/BrunoSobrino">
+<a href="https://github.com/cucubot">
   <img src="https://i.ibb.co/Qn1W6cP/image.png" width="180px"/>
 </a>

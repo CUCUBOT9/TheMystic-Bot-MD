@@ -5,8 +5,8 @@
 - Agradecimiento especial a Carlos (PT) por los codigos de interactiveMessage (botones)
 - Agradecimiento a Darlyn1234 por la estructura de uso en este codigo y quoted
  * https://github.com/darlyn1234
-- Adaptacion de imagen en tipo lista, codigo y funcionamiento por BrunoSobrino
- * https://github.com/BrunoSobrino
+- Adaptacion de imagen en tipo lista, codigo y funcionamiento por cucubot
+ * https://github.com/cucubot
 
 */
 import fetch from 'node-fetch';
@@ -37,14 +37,14 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
   try {
     apiUrlsz = [
       `https://api.cafirexos.com/api/ytplay?text=${text}`,
-      `https://api-brunosobrino.onrender.com/api/ytplay?text=${text}&apikey=BrunoSobrino`,
-      `https://api-brunosobrino-dcaf9040.koyeb.app/api/ytplay?text=${text}`
+      `https://api-cucubot.onrender.com/api/ytplay?text=${text}&apikey=cucubot`,
+      `https://api-cucubot-dcaf9040.koyeb.app/api/ytplay?text=${text}`
     ];
     const linkyt = await isValidYouTubeLink(text);
     if (linkyt) apiUrlsz = [
         `https://api.cafirexos.com/api/ytinfo?url=${text}`,
-        `https://api-brunosobrino-koiy.onrender.com/api/ytinfo?url=${text}&apikey=BrunoSobrino`,
-        `https://api-brunosobrino-dcaf9040.koyeb.app/api/ytinfo?url=${text}`
+        `https://api-cucubot-koiy.onrender.com/api/ytinfo?url=${text}&apikey=cucubot`,
+        `https://api-cucubot-dcaf9040.koyeb.app/api/ytinfo?url=${text}`
     ];
     let success = false;
     for (const url of apiUrlsz) {
@@ -111,10 +111,10 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
         let apiUrls2 = [
           `https://api.cafirexos.com/api/v1/ytmp3?url=${data.resultado.url}`,
           `https://api.cafirexos.com/api/v2/ytmp3?url=${data.resultado.url}`,
-          `https://api-brunosobrino.onrender.com/api/v1/ytmp3?url=${data.resultado.url}&apikey=BrunoSobrino`,
-          `https://api-brunosobrino.onrender.com/api/v2/ytmp3?url=${data.resultado.url}&apikey=BrunoSobrino`,
-          `https://api-brunosobrino-dcaf9040.koyeb.app/api/v1/ytmp3?url=${data.resultado.url}`,
-          `https://api-brunosobrino-dcaf9040.koyeb.app/api/v2/ytmp3?url=${data.resultado.url}`,
+          `https://api-cucubot.onrender.com/api/v1/ytmp3?url=${data.resultado.url}&apikey=cucubot`,
+          `https://api-cucubot.onrender.com/api/v2/ytmp3?url=${data.resultado.url}&apikey=cucubot`,
+          `https://api-cucubot-dcaf9040.koyeb.app/api/v1/ytmp3?url=${data.resultado.url}`,
+          `https://api-cucubot-dcaf9040.koyeb.app/api/v2/ytmp3?url=${data.resultado.url}`,
         ];
 
         let success2 = false;
@@ -137,10 +137,10 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
         let apiUrls22 = [
           `https://api.cafirexos.com/api/v1/ytmp4?url=${data.resultado.url}`,
           `https://api.cafirexos.com/api/v2/ytmp4?url=${data.resultado.url}`,            
-          `https://api-brunosobrino.onrender.com/api/v1/ytmp4?url=${data.resultado.url}&apikey=BrunoSobrino`,
-          `https://api-brunosobrino.onrender.com/api/v2/ytmp4?url=${data.resultado.url}&apikey=BrunoSobrino`,
-          `https://api-brunosobrino-dcaf9040.koyeb.app/api/v1/ytmp4?url=${data.resultado.url}`,
-          `https://api-brunosobrino-dcaf9040.koyeb.app/api/v2/ytmp4?url=${data.resultado.url}`,
+          `https://api-cucubot.onrender.com/api/v1/ytmp4?url=${data.resultado.url}&apikey=cucubot`,
+          `https://api-cucubot.onrender.com/api/v2/ytmp4?url=${data.resultado.url}&apikey=cucubot`,
+          `https://api-cucubot-dcaf9040.koyeb.app/api/v1/ytmp4?url=${data.resultado.url}`,
+          `https://api-cucubot-dcaf9040.koyeb.app/api/v2/ytmp4?url=${data.resultado.url}`,
         ];
 
         let success2 = false;
