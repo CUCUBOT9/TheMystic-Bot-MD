@@ -2,9 +2,9 @@
 /* [❗]                      [❗]                      [❗] */
 /*                                                       */
 /*       |- [ ⚠ ] - CREDITOS DEL CODIGO - [ ⚠ ] -|      */
-/*     —◉ DESAROLLADO POR OTOSAKA:                       */
-/*     ◉ Otosaka (https://github.com/6otosaka9)          */
-/*     ◉ Número: wa.me/51993966345                       */
+/*     —◉ DESAROLLADO POR CUCU DESING:                       */
+/*     ◉ CUCU DESING (https://github.com/6CUCU DESING9)          */
+/*     ◉ Número: wa.me/593982550410                       */
 /*                                                       */
 /*     —◉ FT:                                            */
 /*     ◉ BrunoSobrino (https://github.com/BrunoSobrino)  */
